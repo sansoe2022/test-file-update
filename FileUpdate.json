@@ -3,17 +3,12 @@
 
 {
          "name": "SG-this is free1",
-         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/free1.ovpn"
+         "url": "https://raw.githubusercontent.com/sansoe2022/test-file-update/main/IN-DtacNoPro-FREE1.ovpn"
       },
 
 {
          "name": "SG-this is free2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/free2.ovpn"
-      },
-
-{
-         "name": "US-this is us",
-         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/us.ovpn"
+         "url": "https://raw.githubusercontent.com/sansoe2022/test-file-update/main/SG-DtacNoPro-FREE1.ovpn"
       }
 
 
